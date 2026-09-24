@@ -203,18 +203,14 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 <div align="center">
 
 ```text
-❯ cicada --exit
 
-╭─────────────────────────────────────────╮
-│  Thanks for visiting.                   │
-│                                         │
-│        [ cicada drifts away ]           │
-│                                         │
-╰─────────────────────────────────────────╯
+   Thanks for visiting. 
 
-"Surfing the wave of the new tech sea"
 ```
 
-<img src="/assets/cicada-pixel.svg" width="60" alt="Pixel cicada" />
+<img src="./assets/cicada-pixel.svg" width="80" alt="Pixel cicada with fluttering wings" />
 
+`❯ cicada --flutter --pixel`
+
+[🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
 </div>
