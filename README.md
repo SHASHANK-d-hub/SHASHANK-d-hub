@@ -212,5 +212,5 @@ assests/cicada-pixel.svg<img src="./assets/divider.svg" width="100%" alt="" /></
 
 `❯ cicada --flutter --pixel`
 
-[🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
+[🔊 `❯ cicada --sound`](assests/cicada-sound(1).wav)
 </div>
