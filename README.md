@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="SHASHANK" />
+<img src="assests/banner.svg" width="100%" alt="SHASHANK" />
 
 <img src="./assets/cicada-pixel.svg" width="80" alt="Pixel cicada with fluttering wings" />
 
