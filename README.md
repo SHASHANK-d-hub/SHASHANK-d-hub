@@ -8,7 +8,7 @@
 
 [🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
 
-### ¡Hola! 👋
+<img src="./assets/hola.svg" width="100%" alt="¡HOLA!" />
 
 </div>
 
@@ -18,11 +18,10 @@
 ╭────────────────────────────────────────────────────────────╮
 │  shashank@dev:~$ cat /etc/identity                         │
 │                                                            │
-│  name      :: SHASHANK                           │
+│  name      :: SHASHANK D SALIAN                            │
 │  degree    :: B.Tech CSE (Cyber Security)                  │
 │  email     :: shashankdsalian@gmail.com                    │
-│  github    :: github.com/shashankdsalian                   │
-│  linkedin  :: linkedin.com/in/shashankdsalian              │
+│  linkedin  :: see connect below ↓                          │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
@@ -191,16 +190,14 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
 │  EMAIL     :: shashankdsalian@gmail.com                  │
-│  GITHUB    :: github.com/shashankdsalian                 │
-│  LINKEDIN  :: linkedin.com/in/shashankdsalian            │
+│  LINKEDIN  :: click the badge below                      │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/in/shashankdsalian)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=8ec07c)](https://github.com/shashankdsalian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/public-profile/settings)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fe8019)](mailto:shashankdsalian@gmail.com)
 
 </div>
