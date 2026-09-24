@@ -18,7 +18,7 @@
 ╭────────────────────────────────────────────────────────────╮
 │  shashank@dev:~$ cat /etc/identity                         │
 │                                                            │
-│  name      :: SHASHANK D SALIAN                            │
+│  name      :: SHASHANK                           │
 │  degree    :: B.Tech CSE (Cyber Security)                  │
 │  email     :: shashankdsalian@gmail.com                    │
 │  github    :: github.com/shashankdsalian                   │
