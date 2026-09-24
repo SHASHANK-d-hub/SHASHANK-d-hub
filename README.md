@@ -2,7 +2,7 @@
 
 <img src="assests/banner.svg" width="100%" alt="SHASHANK" />
 
-<img src=". /assests/cicada-pixel.svg" width="80" alt="Pixel cicada with fluttering wings" />
+<img src=". /assests/cicada-pixel.svg" width="60" alt="Pixel cicada with fluttering wings" />
 
 `❯ cicada --flutter --pixel`
 
