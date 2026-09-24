@@ -198,13 +198,13 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 
 </div>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
+assests/cicada-pixel.svg<img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <div align="center">
 
 ```text
 
-   Thanks for visiting. 
+                               Thanks for visiting. 
 
 ```
 
