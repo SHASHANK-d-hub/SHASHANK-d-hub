@@ -8,7 +8,7 @@
 
 [🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
 
-<img src="./assets/hola.svg" width="100%" alt="¡HOLA!" />
+<img src="/assests/hola.svg" width="100%" alt="¡HOLA!" />
 
 </div>
 
