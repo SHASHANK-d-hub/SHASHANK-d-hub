@@ -208,7 +208,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 
 ```
 
-<img src="assets/cicada-pixel.svg" width="80" alt="Pixel cicada with fluttering wings" />
+<img src="assests/cicada-pixel.svg" width="80" alt="Pixel cicada with fluttering wings" />
 
 `❯ cicada --flutter --pixel`
 
