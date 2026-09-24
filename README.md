@@ -1,16 +1,246 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SHASHANK-d-hub/SHASHANK-d-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+██╗  ██╗ █████╗ ███████╗██╗███████╗██╗     
+██║  ██║██╔══██╗╚══███╔╝██║██╔════╝██║     
+███████║███████║  ███╔╝ ██║█████╗  ██║     
+██╔══██║██╔══██║ ███╔╝  ██║██╔══╝  ██║     
+██║  ██║██║  ██║███████╗██║███████╗███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚══════╝
+```
 
-Here are some ideas to get you started:
+**B.Tech CSE — Cyber Security**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Surfing the wave of the new tech sea*
+
+<img src="./assets/cicada-pixel.svg" width="40" alt="Pixel cicada with fluttering wings" />
+
+`❯ cicada --flutter --pixel`
+
+<!-- assets/cicada-pixel.svg (or .gif): a small 8-bit cicada with looping wing-flutter animation -->
+
+</div>
+
+---
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│  haziel@dev:~$ cat /etc/identity                           │
+│                                                            │
+│  name      :: SHASHANK D SALIAN                            │
+│  degree    :: B.Tech CSE (Cyber Security)                  │
+│  email     :: shashankdsalian@gmail.com                    │
+│  github    :: github.com/shashankdsalian                   │
+│  linkedin  :: linkedin.com/in/shashankdsalian              │
+╰────────────────────────────────────────────────────────────╯
+```
+
+## ❯ whoami
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│  $ cat about.txt                                           │
+╰────────────────────────────────────────────────────────────╯
+```
+
+Computer Science Engineering student specializing in **Cyber Security**.
+
+I build reliable, efficient, and secure software — from gamified cybersecurity training platforms to post-quantum cryptography benchmarks and full-stack compliance tools.
+
+```text
+🔭 Focus     :: Software Engineering · Backend · Security-First Design
+🌱 Learning  :: Cloud Security · Scalable Architecture · Applied Crypto
+🎯 Goal      :: Software Engineer building defensible systems
+🌊 Motto     :: Surfing the wave of the new tech sea
+```
+
+---
+
+## ❯ neofetch
+
+```text
+        .--.                 shashank@dev
+       |o_o |                ────────────
+       |:_/ |                OS:        macOS · Parrot OS · Kali Linux · Ubuntu
+      //   \ \               Focus:     Cyber Security
+     (|     | )              Languages: C · Python · JavaScript
+    /'\_   _/`\              Backend:   Flask · FastAPI
+    \___)=(___/              Frontend:  React 18 · Vite
+                             Database:  PostgreSQL · SQLite
+                             Theme:     dark / neon-green
+```
+
+---
+
+## ❯ ls -la ~/skills
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ drwxr-xr-x  languages/   C · Python                          │
+│ drwxr-xr-x  backend/     Flask · FastAPI · SQLAlchemy        │
+│                          Pydantic · REST APIs · JWT · RBAC   │
+│ drwxr-xr-x  frontend/    React 18 · Vite · Axios             │
+│ drwxr-xr-x  data/        Pandas · NumPy · Matplotlib         │
+│                          Seaborn                             │
+│ drwxr-xr-x  security/    Wazuh SIEM · nmap · hydra · hping3  │
+│ drwxr-xr-x  crypto/      PyCryptodome · oqs-python (liboqs)  │
+│ drwxr-xr-x  databases/   PostgreSQL · SQLite                 │
+│ drwxr-xr-x  devops/      Docker · Docker Compose · Git       │
+│                          GitHub · Pytest                     │
+│ drwxr-xr-x  systems/     Parrot OS · Kali Linux · Ubuntu     │
+│                          macOS · VS Code                     │
+│                                                              │
+│ spoken/     English · Hindi · Kannada                        │
+│ soft/       Adaptability · Critical Thinking                 │
+│             Problem Solving · Teamwork · Leadership          │
+│             Time Management                                  │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=8ec07c)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=8ec07c)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=8ec07c)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=8ec07c)
+![React](https://img.shields.io/badge/React_18-0a0a0a?style=for-the-badge&logo=react&logoColor=8ec07c)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=8ec07c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=8ec07c)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=8ec07c)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=8ec07c)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=8ec07c)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=8ec07c)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=8ec07c)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=8ec07c)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=8ec07c)
+![macOS](https://img.shields.io/badge/macOS-0a0a0a?style=for-the-badge&logo=apple&logoColor=8ec07c)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=8ec07c)
+
+---
+
+## ❯ ./cyberrange --status
+
+**CyberRange — Gamified Cybersecurity Training Platform**
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ A Counter-Strike-inspired cyber battle simulator with a      │
+│ real-time HUD for Red Team attack simulations and Blue Team  │
+│ defensive actions.                                           │
+│                                                              │
+│ ✔ Live scoring system                                        │
+│ ✔ Automated Wazuh SIEM alerts                                │
+│ ✔ Network security monitoring                                │
+│ ✔ Real-time HUD dashboard                                    │
+│                                                              │
+│ stack :: Flask-SocketIO · JavaScript/HTML5 · REST APIs       │
+│          WebSockets · Kali Linux · Ubuntu · nmap · hydra     │
+│          hping3 · Wazuh SIEM · Bash · VMware/VirtualBox      │
+│          JSON · Python · Flask                               │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ❯ ./rsa-vs-kyber --benchmark
+
+**Comparative Performance & Security Evaluation of RSA and Post-Quantum Cryptography**
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ Comparative evaluation of RSA-2048 vs Kyber512 against       │
+│ quantum computing threats — security and performance         │
+│ benchmarking.                                                │
+│                                                              │
+│ ✔ Published paper at ICIPTM 2026                             │
+│ ✔ Defined comparative parameters & benchmarking metrics      │
+│ ✔ Curated evaluation framework                               │
+│ ✔ Performance visualization pipeline                         │
+│                                                              │
+│ stack :: PyCryptodome · oqs-python (liboqs) · Kyber512       │
+│          RSA-2048 · Lattice-based crypto (M-LWE) · Pandas    │
+│          NumPy · Matplotlib · Seaborn · tracemalloc · psutil │
+│          CSV · Git · Python                                  │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ❯ ./ledgerflow --features
+
+**LedgerFlow — Compliance & Tax-Workflow Platform**
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│ Full-stack compliance and tax-workflow platform for small    │
+│ CA firms.                                                    │
+│                                                              │
+│ ✔ Client PAN/GST management                                  │
+│ ✔ Income-expense tracking                                    │
+│ ✔ Document storage                                           │
+│ ✔ Automated deadline reminders                               │
+│ ✔ JWT authentication                                         │
+│ ✔ Role-based access control                                  │
+│                                                              │
+│ stack :: React 18 · Vite · React Router · Axios              │
+│          Context API · Python 3.12 · FastAPI · SQLAlchemy    │
+│          Pydantic · python-jose · passlib · PostgreSQL       │
+│          SQLite · JWT · RBAC · REST API · Pytest · Docker    │
+│          Git/GitHub                                          │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## ❯ github --stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankdsalian&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=8ec07c&text_color=c0c0c0&icon_color=b16286&border_color=3c3836)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankdsalian&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8ec07c&text_color=c0c0c0&icon_color=b16286&border_color=3c3836)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shashankdsalian&hide_border=true&background=0a0a0a&ring=8ec07c&fire=b16286&currStreakLabel=8ec07c&sideLabels=c0c0c0&dates=c0c0c0)
+
+</div>
+
+---
+
+## ❯ ./connect --all
+
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│  EMAIL     :: shashankdsalian@gmail.com                  │
+│  GITHUB    :: github.com/shashankdsalian                 │
+│  LINKEDIN  :: linkedin.com/in/shashankdsalian            │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=8ec07c)](https://www.linkedin.com/in/shashankdsalian)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=8ec07c)](https://github.com/shashankdsalian)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=8ec07c)](mailto:shashankdsalian@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+❯ cicada --exit
+
+╭─────────────────────────────────────────╮
+│  Thanks for visiting.                   │
+│                                         │
+│        [ cicada drifts away ]           │
+│                                         │
+╰─────────────────────────────────────────╯
+
+"Surfing the wave of the new tech sea"
+```
+
+<img src="./assets/cicada-pixel.svg" width="30" alt="Pixel cicada" />
+
+</div>
