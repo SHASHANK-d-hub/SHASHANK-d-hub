@@ -190,14 +190,14 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
 │  EMAIL     :: shashankdsalian@gmail.com                  │
-│  LINKEDIN  :: click the badge below                      │
+│  LINKEDIN  :: linkedin.com/in/shashank-d-salian-05ab21324 │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/public-profile/settings)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/in/shashank-d-salian-05ab21324/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fe8019)](mailto:shashankdsalian@gmail.com)
 
 </div>
