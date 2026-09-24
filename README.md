@@ -1,31 +1,22 @@
 <div align="center">
 
-```text
-██╗  ██╗ █████╗ ███████╗██╗███████╗██╗     
-██║  ██║██╔══██╗╚══███╔╝██║██╔════╝██║     
-███████║███████║  ███╔╝ ██║█████╗  ██║     
-██╔══██║██╔══██║ ███╔╝  ██║██╔══╝  ██║     
-██║  ██║██║  ██║███████╗██║███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚══════╝
-```
+<img src="./assets/banner.svg" width="100%" alt="SHASHANK" />
 
-**B.Tech CSE — Cyber Security**
-
-*Surfing the wave of the new tech sea*
-
-<img src="./assets/cicada-pixel.svg" width="40" alt="Pixel cicada with fluttering wings" />
+<img src="./assets/cicada-pixel.svg" width="80" alt="Pixel cicada with fluttering wings" />
 
 `❯ cicada --flutter --pixel`
 
-<!-- assets/cicada-pixel.svg (or .gif): a small 8-bit cicada with looping wing-flutter animation -->
+[🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
+
+### ¡Hola! 👋
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│  haziel@dev:~$ cat /etc/identity                           │
+│  shashank@dev:~$ cat /etc/identity                         │
 │                                                            │
 │  name      :: SHASHANK D SALIAN                            │
 │  degree    :: B.Tech CSE (Cyber Security)                  │
@@ -54,7 +45,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 🌊 Motto     :: Surfing the wave of the new tech sea
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## ❯ neofetch
 
@@ -70,7 +61,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
                              Theme:     dark / neon-green
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## ❯ ls -la ~/skills
 
@@ -97,24 +88,28 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=8ec07c)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=8ec07c)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=8ec07c)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=8ec07c)
-![React](https://img.shields.io/badge/React_18-0a0a0a?style=for-the-badge&logo=react&logoColor=8ec07c)
-![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=8ec07c)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=8ec07c)
-![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=8ec07c)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=8ec07c)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=8ec07c)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=8ec07c)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=8ec07c)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=8ec07c)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=8ec07c)
-![macOS](https://img.shields.io/badge/macOS-0a0a0a?style=for-the-badge&logo=apple&logoColor=8ec07c)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=8ec07c)
+<p align="center">
 
----
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=8ec07c)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=fabd2f)
+![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=fe8019)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=83a598)
+![React](https://img.shields.io/badge/React_18-0a0a0a?style=for-the-badge&logo=react&logoColor=d3869b)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=b16286)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=8ec07c)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=for-the-badge&logo=sqlite&logoColor=fabd2f)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=fe8019)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=83a598)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=d3869b)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=b16286)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=8ec07c)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=fabd2f)
+![macOS](https://img.shields.io/badge/macOS-0a0a0a?style=for-the-badge&logo=apple&logoColor=fe8019)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=83a598)
+
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## ❯ ./cyberrange --status
 
@@ -138,7 +133,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## ❯ ./rsa-vs-kyber --benchmark
 
@@ -162,7 +157,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## ❯ ./ledgerflow --features
 
@@ -188,21 +183,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
----
-
-## ❯ github --stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankdsalian&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=8ec07c&text_color=c0c0c0&icon_color=b16286&border_color=3c3836)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankdsalian&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=8ec07c&text_color=c0c0c0&icon_color=b16286&border_color=3c3836)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shashankdsalian&hide_border=true&background=0a0a0a&ring=8ec07c&fire=b16286&currStreakLabel=8ec07c&sideLabels=c0c0c0&dates=c0c0c0)
-
-</div>
-
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 ## ❯ ./connect --all
 
@@ -218,13 +199,13 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=8ec07c)](https://www.linkedin.com/in/shashankdsalian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=83a598)](https://www.linkedin.com/in/shashankdsalian)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=8ec07c)](https://github.com/shashankdsalian)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=8ec07c)](mailto:shashankdsalian@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fe8019)](mailto:shashankdsalian@gmail.com)
 
 </div>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <div align="center">
 
@@ -241,6 +222,6 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 "Surfing the wave of the new tech sea"
 ```
 
-<img src="./assets/cicada-pixel.svg" width="30" alt="Pixel cicada" />
+<img src="./assets/cicada-pixel.svg" width="60" alt="Pixel cicada" />
 
 </div>
