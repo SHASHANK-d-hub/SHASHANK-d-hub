@@ -2,11 +2,6 @@
 
 <img src="assests/banner.svg" width="100%" alt="SHASHANK" />
 
-<img src=". assests/cicada-pixel.svg" width="160" alt="Pixel cicada with fluttering wings" />
-
-`❯ cicada --flutter --pixel`
-
-[🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
 
 <img src="/assests/hola.svg" width="100%" alt="¡HOLA!" />
 
