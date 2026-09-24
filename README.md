@@ -190,7 +190,7 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
 │  EMAIL     :: shashankdsalian@gmail.com                  │
-│  LINKEDIN  :: linkedin.com/in/shashank-d-salian-05ab21324 │
+│  LINKEDIN  ::linkedin.com/in/shashank-d-salian-05ab21324 │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
