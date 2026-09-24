@@ -1,9 +1,9 @@
 <div align="center">
+<img src="/assests/hola.svg" width="100%" alt="¡HOLA!" />
 
 <img src="assests/banner.svg" width="100%" alt="SHASHANK" />
 
 
-<img src="/assests/hola.svg" width="100%" alt="¡HOLA!" />
 
 </div>
 
@@ -214,6 +214,9 @@ I build reliable, efficient, and secure software — from gamified cybersecurity
 "Surfing the wave of the new tech sea"
 ```
 
-<img src="./assets/cicada-pixel.svg" width="60" alt="Pixel cicada" />
+<img src=". assests/cicada-pixel.svg" width="160" alt="Pixel cicada with fluttering wings" />
 
+`❯ cicada --flutter --pixel`
+
+[🔊 `❯ cicada --sound`](./assets/cicada-sound.wav)
 </div>
